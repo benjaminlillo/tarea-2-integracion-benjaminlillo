@@ -1,6 +1,6 @@
 <script>
-  import QuestionBox from "$lib/QuestionBox.svelte";
-  import ScoreBoard from "$lib/ScoreBoard.svelte";
+  import QuestionBox from "$lib/questionBox.svelte";
+  import ScoreBoard from "$lib/scoreBoard.svelte";
   import Streak from "./streak.svelte";
   import TextQuestion from "$lib/questions/textQuestion.svelte";
   import ButtonQuestion from "./questions/buttonQuestion.svelte";
