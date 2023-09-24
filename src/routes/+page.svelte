@@ -94,18 +94,5 @@
 </div>
 
 <style>
-  .row {
-		width: 100%;
-		display: flex;
-		flex-direction: row;
-		align-items: stretch;
-	}
 
-	.question-box {
-		flex-grow: 2;
-	}
-
-	.score-board {
-		flex-grow: 1;
-	}
 </style>
